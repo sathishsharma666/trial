@@ -1,0 +1,8 @@
+PID: 7918 START: 1778215242494839040 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20260508T044037Z-P00001eee/repo-20260508T044042Z-P00001eee]
+
+PID: 7918 START: 1778215242503311104 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 7918 END: 1778215242505592576 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 7918 END: 1778215242505676288 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20260508T044037Z-P00001eee/repo-20260508T044042Z-P00001eee]
+
